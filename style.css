@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Rocker&display=swap');
+:root{
+    --branco: white;
+    --cor-de-fundo:#EAE4D5;
+    --fundo-senha:#B6B09F;
+    --fundo-texto:#F2F2F2;
+    --borda:#000000;
+    --fonte:'New Rocker', sans-serif;
+}
+
+*{
+    font-weight: 400;
+}
+
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte);
+}
